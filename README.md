@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fraka15
-- 👀 I’m interested in ...
+- 👀 I’m interested in Blockchain, Gym, Businesess
 - 🌱 I’m currently learning Blockchain Dev.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me ...
 
 <!---
